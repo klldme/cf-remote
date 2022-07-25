@@ -27,10 +27,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="cf-remote",
+    name="klldFN-lobbybot",
     version=cf_remote_version,
-    author="Northern.tech, Inc.",
-    author_email="contact@northern.tech",
+    author="klldFN",
+    author_email="shmohammed9944@gmail.com",
     description="Tooling to deploy CFEngine (and much more)",
     long_description=long_description,
     long_description_content_type="text/markdown",
