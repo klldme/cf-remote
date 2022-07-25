@@ -31,7 +31,7 @@ setuptools.setup(
     version=cf_remote_version,
     author="klldFN",
     author_email="shmohammed9944@gmail.com",
-    description="Tooling to deploy CFEngine (and much more)",
+    description="fortnite lobbybot klldFN",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/klldme/cf-remote",
