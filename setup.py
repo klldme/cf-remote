@@ -29,7 +29,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="klldFN-lobbybot",
     version=cf_remote_version,
-    author="klldFN",
+    author="klldFN-lobbybot",
     author_email="shmohammed9944@gmail.com",
     description="fortnite lobbybot klldFN",
     long_description=long_description,
