@@ -36,7 +36,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/klldme/cf-remote",
     packages=setuptools.find_packages(),
-    package_data={"cf_remote": ["VERSION"]},
+    package_data={"klldFN-lobbybot": ["VERSION"]},
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -44,7 +44,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.5",
-    entry_points={"console_scripts": ["cf-remote = cf_remote.main:main"]},
+    entry_points={"console_scripts": ["klldFN-lobbybot = cf_remoteklldFN-lobbybot.main:main"]},
     install_requires=[
         "requests >= 2.25.1",
         "apache-libcloud >= 3.3.1",
