@@ -34,7 +34,7 @@ setuptools.setup(
     description="Tooling to deploy CFEngine (and much more)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cfengine/cf-remote",
+    url="https://github.com/klldme/cf-remote",
     packages=setuptools.find_packages(),
     package_data={"cf_remote": ["VERSION"]},
     include_package_data=True,
